@@ -18,12 +18,7 @@ verse = randint(0, len(quoteMatrix[book])-1)
 # assemble output text
 output = ""
 if config.showBookVerseNumber:
-    output += f'[{book},{verse}] '
+    output += f'[{book+1},{verse+1}] '
 output += quoteMatrix[book][verse]
 
 print(output)
-
-
-
-
-
