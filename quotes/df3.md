@@ -11,7 +11,8 @@ They must have amnesia, they forgot that I'm him
 That Burberry Backwoods pack hittin'
 That pussy smell like a Hellcat V8
 We smokin' shit in a glass pipe, blowin' the Lord's bubbles
-I'm sick in the head, I'm on them Broward County Tic-Tacs
+I'm sick in the head
+I'm on them Broward County Tic-Tacs
 I'm on them Georgetown Gеronimos
 I'm on them Nashville nibblers
 I lеft my Margielas in the Benz truck, I'll have to stunt on them next time
@@ -33,14 +34,12 @@ Y'all gotta stop playin' with me, man
 I threw diamonds at the strip clubs under the Great Pyramids
 I pushed the camel through the eye of a needle
 This shit ain't nothin' to me, man
-Tied the ops to the back of a Trackhawk and dragged 'em around the block for 24-hours
-Motherfucker looked like a Resident Evil 5 campaign extra after we was done with him
+Tied the ops to the back of a Trackhawk and dragged 'em around the block for 24-hours. Motherfucker looked like a Resident Evil 5 campaign extra after we was done with him
 Ops wanted some initiative, blew up their entire quadrant
 I'm movin' like Oppenheimer
 She dropped that ass on me from an egregarious angle, they thought I was Steven Wallace
 Top shelf zaza disrupted my circadian rhythm
-I have seen the Magna Carta, I've seen the Eye of Horus
-I was flippin' bricks for Mansa Musa before y'all even became a type-1 civilization
+I have seen the Magna Carta, I've seen the Eye of Horus. I was flippin' bricks for Mansa Musa before y'all even became a type-1 civilization
 This shit ain't nothin' to me, you stupid piece of shit
 Step the wrong way and you will perish
 That pussy feel like Biscoff butter

@@ -1,24 +1,43 @@
 from os import listdir, path
 from random import randint
+from playsound3 import playsound
 
 import config
 from config import *
 
-# assemble a matrix of all drac quotes
-quoteMatrix = []
+# Prepare list of files containing quotes
+filePaths = []
 for file in listdir('quotes'):
-    filepath = path.join('quotes', file)
-    with open(filepath) as f:
-        quoteMatrix.append(f.read().splitlines())
+    filePaths.append(path.join('quotes', file))
+filePaths.sort() # ensure numeric order
 
-# get random drac quote from matrix
-book = randint(0, len(quoteMatrix)-1)
-verse = randint(0, len(quoteMatrix[book])-1)
+# Add quotes to a matrix
+# entry = [quote(str), video(int), line(int)]
+quotes = []
+for i in range(len(filePaths)):
+    with open(filePaths[i]) as f:
+        foo = f.read().splitlines()
+    for j in range(len(foo)):
+        quotes.append((foo[j], i, j))
+
+quotes = tuple(quotes)
+
+sel = quotes[randint(0, len(quotes)-1)]
+bar   = sel[0]
+book  = sel[1]
+verse = sel[2]
 
 # assemble output text
 output = ""
 if config.showBookVerseNumber:
     output += f'[{book+1},{verse+1}] '
-output += quoteMatrix[book][verse]
+output += bar
 
 print(output)
+
+if config.playSound:
+    soundFile = path.join('sound', f'{book}/df_{book}_{verse}.mp3')
+    if path.exists(soundFile):
+        playsound(soundFile)
+    else:
+        print('Sound does not exist:', soundFile)

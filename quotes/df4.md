@@ -91,7 +91,7 @@ She wanted dick, but I gave her crack
 I'm smoking lizard taint
 Sniffing monkey
 It's monkey monday, show me that monkey
-[Screams] I'm getting too much money!
+/Screams/ I'm getting too much money!
 I'm fucked up drinking a Chinese modelo
 I'm smoking on that hush puppy limon
 Broke boy wasn't balling enough welcome to the Guangdong Tigers
@@ -136,5 +136,5 @@ Drank man, please! I'm thirsty!
 I'm ready, I'm trying to po' up. Drank man, please!
 This Henny makin' me want to go to the mall and do somethin' crazy
 If Santa come down my chimney, I'm gon' fuck him
-[Screaming] [Screaming] That's what my Hellcat sounds like
+/Screaming/ /Screaming/ That's what my Hellcat sounds like
 This shit ain't nothing to me, man!
