@@ -1,0 +1,2 @@
+showBookVerseNumber = True
+playSound = False
