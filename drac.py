@@ -23,9 +23,7 @@ for i in range(len(filePaths)):
 quotes = tuple(quotes)
 
 sel = quotes[randint(0, len(quotes)-1)]
-bar   = sel[0]
-book  = sel[1]
-verse = sel[2]
+bar, book, verse = sel
 
 # assemble output text
 output = ""
